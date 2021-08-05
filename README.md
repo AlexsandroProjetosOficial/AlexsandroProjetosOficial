@@ -37,25 +37,17 @@
 
 <h2 style="border: none !important">🖥 Skills</h2>
 
-<h3 style="margin: 20px 0;border: none !important">🎨 Design</h3>
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe%20XD%20-%23FF61F6.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/></a>
-</p>
-
-
 <h3 style="margin: 20px 0;border: none !important">💿 Back-end & Databases</h3>
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%230081CB.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/mysql-%230081CB.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="#"><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <a href="#"><img src ="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="#"><img src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
 </p>
-
 
 <h3 style="margin: 20px 0;border: none !important">📉 Front-end</h3>
 
@@ -70,11 +62,10 @@
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
   <a href="#"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Chakra%20UI%20-%23319795.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="MaterialUI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components"/></a>
 </p>
 
 <h3 style="margin: 20px 0;border: none !important">📂 Others</h3>
@@ -85,11 +76,3 @@
 </p>
 
 </div>
-
-
-<!--<h2 style="margin-top: 40px;border: none !important">🖥💻 Setup</h2>
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22%20I5-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
-<a href="#"><img src="https://img.shields.io/badge/apple-imac%20%2027%22-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
-</p>-->
