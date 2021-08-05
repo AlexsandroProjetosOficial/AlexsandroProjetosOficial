@@ -30,7 +30,9 @@
 <div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexsandroProjetosOficial&show_icons=true&hide_border=true&theme=dracula" /></a></div>
 
 <div>
+      <a href="#">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroProjetosOficial&langs_count=8&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+      </a>
 </div>
 
 <div style="margin: 40px 0;">
