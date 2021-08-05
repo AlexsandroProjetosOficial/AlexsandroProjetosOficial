@@ -21,22 +21,15 @@
 
 <br /><br />
 
--   🔭 Currently working on WordPress and React projects
--   💡 I’m learning more about web technologies, like **CSS**, **React**, etc.
--   🥅 2021 goals: to improve my skills and evolve as a **Web Developer**
+-     🔭 Atualmente trabalhando em projetos NojeJS e ReactJS
+-     💡 Estou aprendendo mais sobre Docker, Jenkins, Nginx etc.
+-     🥅 Objetivos para 2021: melhorar minhas habilidades e evoluir como desenvolvedor web
 
+<h2 style="border: none !important">Meus Repositórios</h2>
 
-<div style="margin: 40px 0; text-align: right;" align="right">
-<em style="font-size: 30px">"Creativy is just connecting things."</em>
-<p style="font-size: 18px; font-weight: bold;">Steve Jobs</p>
-</div>
+<div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexsandroProjetosOficial&show_icons=true&hide_border=true&theme=dracula" /></a></div>
 
-
-<h2 style="border: none !important">Me & My Repositories</h2>
-
-<div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark" /></a></div>
-
-<div><a href="#"><img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" /></a></div>
+<div><a href="#"><img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroProjetosOficial&layout=compact&theme=dracula&hide_border=true" /></a></div>
 
 
 
