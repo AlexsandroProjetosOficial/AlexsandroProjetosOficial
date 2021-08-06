@@ -37,8 +37,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroProjetosOficial&langs_count=8&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexDevFullStack&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<div style="margin: 40px 0;">
-[![wakatime](https://wakatime.com/badge/github/AlexsandroProjetosOficial/AlexsandroProjetosOficial.svg)](https://wakatime.com/badge/github/AlexsandroProjetosOficial/AlexsandroProjetosOficial)      
+
+[![wakatime](https://wakatime.com/badge/github/AlexsandroProjetosOficial/AlexsandroProjetosOficial.svg)](https://wakatime.com/badge/github/AlexsandroProjetosOficial/AlexsandroProjetosOficial)  
+
+<div style="margin: 40px 0;">    
 <h2 style="border: none !important">🖥 Skills</h2>
 
 <h3 style="margin: 20px 0;border: none !important">💿 Back-end & Databases</h3>
