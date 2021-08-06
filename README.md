@@ -81,3 +81,4 @@
 </p>
 
 </div>
+[![wakatime](https://wakatime.com/badge/github/AlexsandroProjetosOficial/AlexsandroProjetosOficial.svg)](https://wakatime.com/badge/github/AlexsandroProjetosOficial/AlexsandroProjetosOficial)
