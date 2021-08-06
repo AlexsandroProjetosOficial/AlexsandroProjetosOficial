@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroProjetosOficial&langs_count=8&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/AlexDevFullStack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=AlexDevFullStack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="margin: 40px 0;">
 
