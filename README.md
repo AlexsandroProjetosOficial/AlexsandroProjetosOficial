@@ -39,8 +39,6 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexDevFullStack&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <div style="margin: 40px 0;">
       
-[![wakatime](https://wakatime.com/badge/github/AlexsandroProjetosOficial/carteira-api.svg)](https://wakatime.com/badge/github/AlexsandroProjetosOficial/carteira-api)
-
 <h2 style="border: none !important">🖥 Skills</h2>
 
 <h3 style="margin: 20px 0;border: none !important">💿 Back-end & Databases</h3>
