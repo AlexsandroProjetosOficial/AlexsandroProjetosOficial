@@ -40,7 +40,7 @@
 <h3 style="margin: 20px 0;border: none !important">💿 Back-end & Databases</h3>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/node.js%20-%23404d59.svg?&style=for-the-badge&logo=node&logoColor=white" alt="NodeJS"/></a>
+   <a href="#"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="#"><img src="https://img.shields.io/badge/mysql-%230081CB.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
